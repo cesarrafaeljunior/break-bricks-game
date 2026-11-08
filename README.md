@@ -14,19 +14,19 @@ A interface apresenta pontuação, vidas, quantidade de blocos restantes e recor
 
 ### Campo de jogo
 
-![Break Bricks Game — interface do jogo, blocos e controles](assets/img/screenshots/iniciar.png)
+![Break Bricks Game — interface do jogo, blocos e controles](/public/assets/img/screenshots/iniciar.png)
 
 *Campo de jogo, plataforma, bola, indicadores e controles da partida.*
 
 ### Quantidade de blocos ajustável
 
-![Break Bricks Game — cenário com mais blocos](assets/img/screenshots/muitos_inimigos.png)
+![Break Bricks Game — cenário com mais blocos](/public/assets/img/screenshots/muitos_inimigos.png)
 
 *Exemplo de partida com maior quantidade de blocos no cenário.*
 
 ### Encerramento da partida
 
-![Break Bricks Game — tela de derrota](assets/img/screenshots/game_over.png)
+![Break Bricks Game — tela de derrota](/public/assets/img/screenshots/game_over.png)
 
 *Mensagem de derrota apresentada no Canvas, com possibilidade de iniciar uma nova partida.*
 
